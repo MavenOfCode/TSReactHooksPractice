@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+# Job Hunter App
+Purpose of App is to help users (job hunters) track jobs they're applying to, interviewing for, ruling out, etc. 
+
+## User Scenarios
+
+## Site Structure Idea
