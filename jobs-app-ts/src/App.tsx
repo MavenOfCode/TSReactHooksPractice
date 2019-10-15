@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react';
+import React, { Fragment } from "./React";
 import logo from './logo.png';
 import './App.css';
 import { JSXElement } from '@babel/types';
